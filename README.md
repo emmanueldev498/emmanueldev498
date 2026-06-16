@@ -16,9 +16,7 @@ Security Monitoring | Alert Triage | Incident Response | Threat Hunting | Log An
 </p> 
 
 <h2>About Me</h2>
-Hi I'm Emmanuel, a cybersecurity enthusiast building  my foundation in cybersecurity—networking, protocols, security fundamentals, monitoring, detecting, SIEM Operations, and threat analysis. 
-This repository documents structured, hands-on work across the Blue Team skill stack: alert triage, log analysis, SIEM investigations, and threat hunting.
-
+Hi I'm Emmanuel, a cybersecurity enthusiast building  my foundation in cybersecurity—networking, protocols, security fundamentals, monitoring, detecting, SIEM Operations, and threat analysis. This repository documents structured, hands-on work across the Blue Team skill stack: alert triage, log analysis, SIEM investigations, and threat hunting.
 
 Every project here is built to mirror the workflows of a working SOC, not tutorial replays. The goal is demonstrable competence: detections I've written, incidents I've walked through end-to-end, and tooling I can speak to in an interview
 
