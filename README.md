@@ -11,6 +11,8 @@ Security Monitoring | Alert Triage | Incident Response | Threat Hunting | Log An
   <img src="https://img.shields.io/badge/KQL-0052CC?style=for-the-badge">
   <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge">
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge">
 </p> 
 
 <h2>About Me</h2>
