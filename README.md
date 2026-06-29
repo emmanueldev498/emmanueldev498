@@ -28,7 +28,7 @@ The detection, triage, and incident response work most representative of day-to-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/emmanueldev498/SOC-Home-Lab-with-Wazuh-XDR">SOC Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection |<a href="https://github.com/emmanueldev498/Brute-force-attack-incident-report-">Incident Report</a>|
+| Brute-force-attack Investigation and Incident Report |<a href="https://github.com/emmanueldev498/Brute-force-attack-incident-report-">Incident Report</a>|
 | Security Automation with Shuffle SOAR         | Pending|
 | Incident Response Planning and Execution      | Pending|
 | Case Management with TheHive                  | Pending|
