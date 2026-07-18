@@ -29,7 +29,7 @@ The detection, triage, and incident response work most representative of day-to-
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/emmanueldev498/SOC-Home-Lab-with-Wazuh-XDR">SOC Home Lab</a>|
 | Brute-force-attack Investigation and Incident Report |<a href="https://github.com/emmanueldev498/Brute-force-attack-incident-report-">Incident Report</a>|
-| Security Automation with Shuffle SOAR         |<a href="https://github.com/emmanueldev498/Network-Traffic-Analysis-Wireshark-Lab-">Network Analysis Wireshark Lab</a>|
+| Network Analysis Wireshark Lab        |<a href="https://github.com/emmanueldev498/Network-Traffic-Analysis-Wireshark-Lab-">Network Analysis Wireshark Lab</a>|
 | Incident Response Planning and Execution      | Pending|
 | Case Management with TheHive                  | Pending|
 | Scripting and Automation for Threat Mitigation |Pending|
